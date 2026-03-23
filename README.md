@@ -69,3 +69,34 @@ mysql -u root -p < database/schema.sql
 Frontend
 Open frontend/login.html
 Or use Live Server
+
+<img width="1121" height="346" alt="image" src="https://github.com/user-attachments/assets/fa8956dd-9dcd-498a-a734-5a871f402d70" />
+
+🔮 Future Improvements
+🔐 JWT Authentication
+📊 Charts & analytics
+📱 Mobile responsive UI
+🔔 Notifications
+📄 Export reports
+
+---
+
+## 🎯 Project Status
+
+✔ Completed core features    
+⚠️ Minor UI improvements can be added in future  
+
+---
+
+## 🙌 Acknowledgements
+
+This project was developed as part of academic learning and practice in full-stack development
+--
+
+👨‍💻 Author
+Ganesh Prasad
+📍 Udupi, India 🇮🇳
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
