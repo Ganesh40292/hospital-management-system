@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Build-Maven-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-brightgreen?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Frontend-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven">
 </p>
 ---
 
