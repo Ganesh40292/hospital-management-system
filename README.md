@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen">
-  <img src="https://img.shields.io/badge/Database-MySQL-blue">
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange">
-  <img src="https://img.shields.io/badge/Build-Maven-red">
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Build-Maven-red?style=for-the-badge">
 </p>
-
 ---
 
 ## 🚀 Overview
