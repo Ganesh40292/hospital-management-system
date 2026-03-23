@@ -44,6 +44,10 @@ A full-stack hospital management system to manage:
 ---
 
 
+
+✅ Use this:
+
+```md
 ## 📁 Project Structure
 hospital-management-system/
 │
@@ -51,26 +55,25 @@ hospital-management-system/
 ├── frontend/
 ├── database/
 └── README.md
-
+```
 
 ---
-
 ## ⚙️ Setup
 
-### Backend
-
+### 🔧 Backend
+```bash
 cd backend
 mvn spring-boot:run
-
----
+```
 Database
 mysql -u root -p < database/schema.sql
 
-Frontend
-Open frontend/login.html
-Or use Live Server
+🌐 Frontend
+Open frontend/login.html in browser
+OR use Live Server (VS Code)
 
-Admin and Patient password
+🔑 Default Credentials
+
 <img width="1121" height="346" alt="image" src="https://github.com/user-attachments/assets/fa8956dd-9dcd-498a-a734-5a871f402d70" />
 
 🔮 Future Improvements
