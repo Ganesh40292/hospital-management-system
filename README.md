@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue">
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange">
+  <img src="https://img.shields.io/badge/Build-Maven-red">
 </p>
 
 ---
@@ -76,31 +76,21 @@ OR use Live Server (VS Code)
 
 <img width="1121" height="346" alt="image" src="https://github.com/user-attachments/assets/fa8956dd-9dcd-498a-a734-5a871f402d70" />
 
-🔮 Future Improvements
-🔐 JWT Authentication
-📊 Charts & analytics
-📱 Mobile responsive UI
-🔔 Notifications
-📄 Export reports
+## 🔮 Future Improvements
 
----
+- 🔐 JWT Authentication  
+- 📊 Charts & Analytics  
+- 📱 Mobile Responsive UI  
+- 🔔 Notifications  
+- 📄 Export Reports
 
-## 🎯 Project Status
+  ## 🙌 Acknowledgements
 
-✔ Completed core features    
-⚠️ Minor UI improvements can be added in future  
+This project was developed as part of academic learning and practice in full-stack development.
 
----
+### 👨‍💻 Author
+Ganesh Prasad  
+📍 Udupi, India 🇮🇳  
 
-## 🙌 Acknowledgements
-
-This project was developed as part of academic learning and practice in full-stack development
---
-
-👨‍💻 Author
-Ganesh Prasad
-📍 Udupi, India 🇮🇳
-
-⭐ Support
-
+### ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
